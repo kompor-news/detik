@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kompor-news.github.io/detik/sitemap.xml
